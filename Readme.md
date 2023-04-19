@@ -16,5 +16,5 @@ Il comando git fetch permette a chi lo esegue di vedere tutte le modifiche (comm
 
 
 
-6)Per quale ragione è meglio fare un merge del codice dopo una review?
+6) Per quale ragione è meglio fare un merge del codice dopo una review?
 è meglio fare una review prima di fare un merge perchè così un programmatore che non è chi ha scritto quel codice effettua un controllo del codice trovando un modo per migliorarlo o per risolvere gli errori che ci sono all'interno evitando così di creare problemi all'interno del main risolvendoli prima
