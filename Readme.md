@@ -11,4 +11,10 @@ gli sviluppatori utilizzano branch secondari per non compromettere il main branc
 4) In che modo un git fetch può dare una panoramica su cosa stanno facendo tutti all’interno del gruppo di lavoro?
 Il comando git fetch permette a chi lo esegue di vedere tutte le modifiche (commit) e tutti i branch che gli altri hanno creato così da avere una panoramica di chi ha apportato determinate modifiche e chi sta lavorando di più e su quale parte del codice
 
-6)
+
+
+
+
+
+6)Per quale ragione è meglio fare un merge del codice dopo una review?
+è meglio fare una review prima di fare un merge perchè così un programmatore che non è chi ha scritto quel codice effettua un controllo del codice trovando un modo per migliorarlo o per risolvere gli errori che ci sono all'interno evitando così di creare problemi all'interno del main risolvendoli prima
