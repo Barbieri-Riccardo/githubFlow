@@ -11,7 +11,7 @@ gli sviluppatori utilizzano branch secondari per non compromettere il main branc
 4) In che modo un git fetch può dare una panoramica su cosa stanno facendo tutti all’interno del gruppo di lavoro?
 Il comando git fetch permette a chi lo esegue di vedere tutte le modifiche (commit) e tutti i branch che gli altri hanno creato così da avere una panoramica di chi ha apportato determinate modifiche e chi sta lavorando di più e su quale parte del codice
 
-
+5)
 
 
 
