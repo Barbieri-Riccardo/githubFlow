@@ -6,15 +6,16 @@ GitHub Flow è un modello di sviluppore che permette di ottenere vantaggi enormi
 Il motivo è perchè nel main sarà inserito il codice finale e il codice finale deve essere stato verificato, testato e controllato in modo completo perchè sara quello che verrà pubblicato e dovrà rimanere stabile e sicuro per gli utenti che lo utilizzeranno.
 
 3) Per quale ragione ogni sviluppatore deve lavorare su un proprio branch? A cosa serve dare nomi significativi ai branch?
-gli sviluppatori utilizzano branch secondari per non compromettere il main branch , in questo modo le modifiche che apportano possono venir controllate prima di applicarle (merge)  al main branch. Dare un nome esplicativo ad un branch aiuta a far comprendere agli altri sviluppatori lo scopo del branch .
+Gli sviluppatori utilizzano branch secondari per non compromettere il main branch , in questo modo le modifiche che apportano possono venir controllate prima di applicarle (merge)  al main branch.Usando più branch oltretutto è possibile lavorare in contemporanea senza rovinare il lavoro proprio e di altri. Dare un nome esplicativo ad un branch aiuta a far comprendere agli altri sviluppatori lo scopo del branch . 
+
 
 4) In che modo un git fetch può dare una panoramica su cosa stanno facendo tutti all’interno del gruppo di lavoro?
 Il comando git fetch permette a chi lo esegue di vedere tutte le modifiche (commit) e tutti i branch che gli altri hanno creato così da avere una panoramica di chi ha apportato determinate modifiche e chi sta lavorando di più e su quale parte del codice
 
-5)
-
-
-
+5) In quali modi si può sfruttare una pull request?
+La pull request è una richiesta di merge ad un altro branch , può essere usata per mandare al project manager i cambiamenti fatti su di un branch secondario richiedendo di implementarli nel main branch. Il project manager supervisiona le modifiche è valuta se eseguire la pull request.
 
 6) Per quale ragione è meglio fare un merge del codice dopo una review?
 è meglio fare una review prima di fare un merge perchè così un programmatore che non è chi ha scritto quel codice effettua un controllo del codice trovando un modo per migliorarlo o per risolvere gli errori che ci sono all'interno evitando così di creare problemi all'interno del main risolvendoli prima
+
+7) Che differenza c’è tra il comando git fetch e git pull?
