@@ -1,3 +1,5 @@
+#Ho messo nei commenti le cose da sistemare [Poi cancellate questa riga]
+
 RISPOSTE ALLE DOMANDE:
 1) Cos’è e a cosa serve il GitHub flow?
 GitHub Flow è un modello di sviluppore che permette di ottenere vantaggi enormi dall’utillo di Git, e come questo aiuti lo sviluppo agile di software  lavora in ambiente di continuo sviluppo di "release" perchè ogni volta che c’è un push questo va direttamente nel master e quindi può essere messo in deploy.
@@ -19,3 +21,4 @@ La pull request è una richiesta di merge ad un altro branch , può essere usata
 
 7) Che differenza c’è tra il comando git fetch e git pull?
 Il comando git fetch ti permette di vedere e ispezionare tutti i cambiamenti effettuati ma non li applica al branch corrente a meno che il programmatore non glie lo dica mente git pull effettua un merge dei dati richiesti con il branch corrente modificandolo e aggiornandolo
+
